@@ -94,7 +94,7 @@ Usá el header:
 
 ---
 
-## 🧭 Endpoints principales (detectados)
+## 🧭 Endpoints principales 
 
 ### Base (server.py)
 - **POST** `/api/auth/register`
@@ -156,7 +156,7 @@ Plantillas y envío de notificaciones (email/push/otros, según implementación)
 
 ---
 
-## 🧪 Próximos pasos sugeridos
+## 🧪 Próximos pasos 
 - Añadir **tests** (pytest) y flujo CI.
 - Especificar **roles** y permisos por endpoint.
 - Plantillas de notificación parametrizables.
@@ -166,6 +166,6 @@ Plantillas y envío de notificaciones (email/push/otros, según implementación)
 ---
 
 ## 👤 Autor
-**Alan Canto (Ajoca)** — Montevideo, Uruguay  
+**Alan Canto ** — Montevideo, Uruguay  
 GitHub: https://github.com/ajoca
 
