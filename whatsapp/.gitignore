@@ -1,0 +1,6 @@
+node_modules/
+sessions/
+*.log
+.env.local
+.DS_Store
+auth_info_baileys/

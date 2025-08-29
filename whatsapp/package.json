@@ -1,0 +1,26 @@
+{
+  "name": "barbershop-whatsapp-service",
+  "version": "1.0.0",
+  "description": "WhatsApp service for Elite Barbershop appointment notifications",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "baileys": "^6.7.8",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "qrcode": "^1.5.3",
+    "axios": "^1.6.7",
+    "moment": "^2.30.1",
+    "node-cron": "^3.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "keywords": ["whatsapp", "baileys", "barbershop", "notifications"],
+  "author": "Elite Barbershop",
+  "license": "MIT"
+}

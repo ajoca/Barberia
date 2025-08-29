@@ -1,0 +1,8 @@
+1 - Falta que en el agendar se pueda seleccionar el barbero la fecha y hora disponibles de los barberos y llegue las notificaciones
+
+2 - wpp bussines
+
+3 - q se confirme la cuenta con un codigo enviado al numero registrado
+
+4 - que las analiticas funcionen en funcion de los cortes que se agenden y en que el barbero en caso de q el usuario no vaya pueda cancelarlo y en las analiticas no se vea reflejado
+
